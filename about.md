@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Hi there! I’m Aaron, and I’m experimenting with Jekyll and eventually [Siteleaf](http://siteleaf.com). 
