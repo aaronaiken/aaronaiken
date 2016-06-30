@@ -5,6 +5,7 @@ categories:
 - update
 tags:
 - test
+layout: post
 ---
 
 Here I am. *Trying out a new post with Siteleaf.*
