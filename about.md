@@ -4,14 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
-Hi there! I’m Aaron, and I’m experimenting with Jekyll and eventually [Siteleaf](http://siteleaf.com). Testing
+Hi there! I’m Aaron Aiken, and this is my website running on Siteleaf...which is new and exciting for me. This poor site has been on many different platforms, most recently WordPress. I tend to use this domain as a testing ground for platforms and frameworks that look interesting. And Siteleaf certainly looks interesting. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I digress. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Here's a bit about me:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* I am married. 
+* We have a 3-year-old son who is really fun.
+* I am unemployable but have been employed for the last three years.
+* I run a website call [Side Internet Business](http://sideinternetbusiness.com).
+* I curate a weekly email newsletter called [Freedom Lifestyle Dispatch](http://freedomlifestyledispatch.com). 
+* I am a cigar aficionado. 
+* I am a coffee snob. 
+* I enjoy reading, writing, and traveling.
+
+Thanks for stopping by!
