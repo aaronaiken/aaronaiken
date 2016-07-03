@@ -6,13 +6,13 @@ layout: post
 
 Systems 
 
-I am up too late. Drinking wine. Catching up on thins in Reeder. Experimenting with Airmail. And thinking about business. And publishing. And life in general. 
+I am up too late. Drinking wine. Catching up on things in [Reeder](http://reederapp.com). Experimenting with [Airmail](http://airmailapp.com). And thinking about business. And publishing. And life in general. 
 
 The wine is good. 
 
 Reeder is an awesome part of my content curation workflow. And I have decided that I want this site to be published to when the mood strikes. Which will mostly be when I am mobile. 
 
-So I am writing this is drafts on my iPhone. Which I will then copy into the mobile web interface of my Siteleaf dashboard. And then I'll publish it. 
+So I am writing this is [drafts](http://agiletortoise.com/drafts/) on my iPhone. Which I will then copy into the mobile web interface of my [Siteleaf](http://www.siteleaf.com) dashboard. And then I'll publish it. 
 
 Which is the way it should be. 
 
