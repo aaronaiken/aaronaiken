@@ -7,8 +7,11 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li>{{ site.title }} {% assign earliestPost = site.posts | last %}
+&copy; {{ earliestPost.date | date: "%Y" }}–{{ site.time | date: "%Y" }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="http://freedomlifestyledispatch.com" target="_blank" title="Freedom Lifestyle Dispatch - Delivered Weekly For Free">Awesome Email</a></li>
+          <li><a href="http://sideinternetbusiness.com" title="Side Internet Business" target="_blank">Learn - start a side internet business.</a></li>
         </ul>
       </div>
 
