@@ -6,6 +6,7 @@ categories:
 tags:
 - FBM
 - community
+layout: post
 ---
 
 So, another late night post. Or, actually, early morning (for me: close to 1 AM EST at this point).
