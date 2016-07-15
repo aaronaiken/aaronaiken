@@ -1,6 +1,7 @@
 ---
 title: Community
 date: 2016-07-15 00:47:00 -04:00
+permalink: community
 categories:
 - Side Internet Business
 tags:
