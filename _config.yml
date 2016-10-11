@@ -9,8 +9,12 @@ collections:
     title: Uploads
     output: true
 email: hello@aaronaiken.me
-description: |
-  Welcome to the personal website and blog of Aaron Aiken. This website will include ramblings related to business, being an entrepreneur, running online businesses, learning, teaching, cigars, coffee, travel, family, technology, and everything in-between.
+description: 'Welcome to the personal website and blog of Aaron Aiken. This website
+  will include ramblings related to business, being an entrepreneur, running online
+  businesses, learning, teaching, cigars, coffee, travel, family, technology, and
+  everything in-between.
+
+'
 baseurl: 
 url: http://aaronaiken.me
 twitter_username: aaron_aiken
